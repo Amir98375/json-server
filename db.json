@@ -2811,7 +2811,128 @@
     {"name": "Yemen", "code": "YE"}, 
     {"name": "Zambia", "code": "ZM"}, 
     {"name": "Zimbabwe", "code": "ZW"} 
+    ],
+    "inqure":[
+      {
+        "Branch code":1,
+        "Branch name":"morning evening",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":2,
+        "Branch name":"Maharshtra demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":3,
+        "Branch name":"Pune demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":4,
+        "Branch name":"Kerala demo demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"unnati road",
+        "Address Line3":"neel giri kerala",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":5,
+        "Branch name":"dena bank",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":6,
+        "Branch name":"upi merchant  demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":7,
+        "Branch name":"up demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":8,
+        "Branch name":"allahabad demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },      {
+        "Branch code":9,
+        "Branch name":"finacus demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      },
+      {
+        "Branch code":3,
+        "Branch name":"pelorus demo",
+        "Address Line1":"430/11 , Shriramwadi",
+        "Address Line2":"M.G road",
+        "Address Line3":"Nashik maharashtra",
+        "City Id":"abcdee",
+        "country code ":"9876545",
+        "Pin code ":"422001",
+        "phone1":3456789,
+        "Phone":34567
+      }
+
     ]
-    
   
   }
